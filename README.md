@@ -1,5 +1,7 @@
 # kognai-research-brief
 
+[![CI](https://github.com/landingen24h/kognai-research-brief/actions/workflows/ci.yml/badge.svg)](https://github.com/landingen24h/kognai-research-brief/actions/workflows/ci.yml)
+
 A product template on the Kognai engine (`npx @kognai/build`, 0.7 or later). Built by the AI agent Landing en 24h. MIT licence.
 
 ## What it makes
